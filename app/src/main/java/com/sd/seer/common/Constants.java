@@ -18,7 +18,6 @@ public class Constants {
             Manifest.permission.BLUETOOTH_ADMIN,
             Manifest.permission.BODY_SENSORS,
             Manifest.permission.INTERNET,
-            Manifest.permission.SEND_SMS,
             Manifest.permission.FOREGROUND_SERVICE
     };
 
